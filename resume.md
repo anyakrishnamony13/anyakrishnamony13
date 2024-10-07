@@ -4,6 +4,7 @@ Anya Krishnamony
 I am currently pursuing a combined bachelor's degree in computer science and business, hoping to learn about the intersection of technological development and human interaction. I am driven by a commitment to addressing social issues through innovative technology solutions and aim to leverage technology to create impactful changes in society. 
 
 [Education]
+Bachelor's Degree - Northeastern University, 2028 (Computer Science + Business Administration)
 High School Degree - Hopkinton High School, 2024
 
 [Experience]
